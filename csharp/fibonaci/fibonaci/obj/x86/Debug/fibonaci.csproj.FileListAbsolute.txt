@@ -1,0 +1,6 @@
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/fibonaci/fibonaci/obj/x86/Debug/fibonaci.csprojAssemblyReference.cache
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/fibonaci/fibonaci/obj/x86/Debug/fibonaci.csproj.CoreCompileInputs.cache
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/fibonaci/fibonaci/bin/Debug/fibonaci.exe
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/fibonaci/fibonaci/bin/Debug/fibonaci.pdb
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/fibonaci/fibonaci/obj/x86/Debug/fibonaci.exe
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/fibonaci/fibonaci/obj/x86/Debug/fibonaci.pdb
