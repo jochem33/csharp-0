@@ -35,12 +35,19 @@ namespace telefoons
                 telefoon = google;
             }
 
-            float price = telefoon.price * hoeveel;
+            float price = calculatePrice(telefoon, hoeveel);
             Console.WriteLine("Dat kost: " + price);
             if(price > 900)
             {
                 Console.WriteLine("Gefeliciteerd, het kost meer dan 900 euro dus je krijgt gratis verzending!");
             }
         }
+
+        public static float calculatePrice(Mobiel telefoon, int hoeveel)
+        {
+            float price = telefoon.price * hoeveel;
+            return price;
+        }
+
     }
 }

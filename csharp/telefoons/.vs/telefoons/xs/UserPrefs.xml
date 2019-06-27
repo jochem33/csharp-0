@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{679C2270-FABB-4586-A578-1B4918B0BFED}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="telefoons/Mobiel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="telefoons/MainClass.cs">
     <Files>
       <File FileName="telefoons/Mobiel.cs" Line="6" Column="21" />
-      <File FileName="telefoons/MainClass.cs" />
+      <File FileName="telefoons/MainClass.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="telefoons" expanded="True">
             <Node name="telefoons" expanded="True">
-              <Node name="Mobiel.cs" selected="True" />
+              <Node name="MainClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
