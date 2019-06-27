@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{444C25A7-F345-4E16-B156-469FCA4ADEE8}|Default">
-  <MonoDevelop.Ide.ItemProperties.fibonaci FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.fibonaci PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="fibonaci/Program.cs">
     <Files>
-      <File FileName="fibonaci/Program.cs" Line="13" Column="1" />
+      <File FileName="fibonaci/Program.cs" Line="22" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

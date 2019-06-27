@@ -1,0 +1,6 @@
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/telefoons/telefoons/bin/Debug/telefoons.exe
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/telefoons/telefoons/bin/Debug/telefoons.pdb
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/telefoons/telefoons/obj/x86/Debug/telefoons.csprojAssemblyReference.cache
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/telefoons/telefoons/obj/x86/Debug/telefoons.csproj.CoreCompileInputs.cache
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/telefoons/telefoons/obj/x86/Debug/telefoons.exe
+/Users/jochembaas/Google Drive/#coderclass/unity/unity-0/csharp/telefoons/telefoons/obj/x86/Debug/telefoons.pdb
